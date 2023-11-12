@@ -16,5 +16,5 @@
     | <panelTitle> |
     Examples:
       | userName | password | panelTitle     |
-      | demo     | demo     |Form Validation |
-
+       ##@externaldata@./src/test/resources/datadriven/FormPanelValidation.xlsx@PanelTitle
+      |demo|demo|Form Validation|
